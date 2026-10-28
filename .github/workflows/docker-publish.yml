@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - feature/capstone-project
+      - feature/ci-cd-workflows
   workflow_dispatch:
  
 permissions:
